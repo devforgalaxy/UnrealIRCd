@@ -11,5 +11,5 @@ HOW TO USE
 
 TUTORIAL
 --------
-If you want to learn how to set up an IRC server, you can read my article :
+If you want to learn how to set up an IRC server, you can read my article:
 - <a href="http://hatemegalaxy.blogspot.tw/2015/04/arch-linux-irc-server-unrealircd-set-up.html" target="_blank">Set up an IRC server by using UnrealIRCd on Arch Linux</a>
